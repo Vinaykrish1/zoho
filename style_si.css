@@ -1,0 +1,41 @@
+body{
+  margin: 0;
+  color: #40514E;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+.mail_space{
+  margin: 10px 10px 10px -125px;
+}
+
+.password{
+  margin: 10px 10px 10px -100px;
+}
+
+.screte{
+  margin: 10px 10px 10px -120px;
+}
+
+.input_pad_1{
+  margin-top: 10px;
+  height: 30px;
+}
+
+.submit{
+  margin: 10px 10px 10px 10px;
+  background-color: #01579b;
+  padding: 5px 70px 5px 70px;
+}
+
+.button{
+  margin: 20px 20px 20px 20px;
+}
+
+.hi{
+  padding: 0px 0px 0px 5px;
+}
+
+.forgot{
+  padding-left: 50px;
+}
